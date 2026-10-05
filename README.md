@@ -1,5 +1,5 @@
 > [!WARNING]  
-> Woven Open Worlds and the Worg editor will be released in October 2026! This repo is parked for the complete framework and tooling. Feel free to have look at the prototype code for now, if you're interested in building with WOW! Stay tuned. 😎 
+> Woven Open Worlds and the Worg editor will be released ~in October 2026~ at some point, maybe! This repo is parked for the complete framework and tooling. Feel free to have look at the prototype code for now, if you're interested in building with WOW! Stay tuned. 😎 
 
 # Woven Open Worlds
 
